@@ -66,19 +66,11 @@ E. `student.courseLoad[0]`
 ## Interval and Timeout
 
 19:
+
 1
+
 3
+
 4
+
 2
-
-
-
-
-
-
-
-
-
-
-
-
